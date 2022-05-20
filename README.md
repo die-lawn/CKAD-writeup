@@ -28,7 +28,7 @@ This guide is tailored to those who want to pass their CKAD cert and who are new
     - I paid for about 4 sessions on top of what was provided with the exam voucher and it's what helped me bring my score to a 51% to an 88%
     - Once you are scoring more than 100 points on the killer sh sessions, book your exam
  4. **Kode Kloud Slack** 
-    - There is a slack channel dedicated to CKAD,CKS,CKS which is linked in the Udemy course. Join that group and view the pinned messages. Memebers in there speak about the experience with the exams and provide many tips in order to pass the exam
+    - There is a slack channel dedicated to CKAD,CKS,CKS which is linked in the Udemy course. Join that group and view the pinned messages. Members in there speak about the experience with the exams and provide many tips in order to pass the exam
  
 5. **MISC resources**
 [github exercises](https://github.com/dgkanatsios/CKAD-exercises) --
