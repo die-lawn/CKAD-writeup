@@ -12,7 +12,7 @@ This guide is tailored to those who want to pass their CKAD cert and who are new
        	 	- ``` :wq``` save & quit inside the editor
        	 	- ```:q!``` quit and throw away unsaved changes
        	 	- ``` cp testpod.yaml pod.yaml ``` copy contents of testpod.yaml to pod.yaml
-       	 	- ``` grep -i A30``` [grep'n](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php)
+       	 	- ``` grep -i pizza A30``` [grep'n](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php)
        
  2. **Once you understand VIM, you should begin this Udemy Course** [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/)
      - This course has everything you need to cover the exam objectives. There are labs at the end of each lesson.  In order to fully grasp content, practice the labs enough to be able to solve them without help from the solution videos
